@@ -1,0 +1,21 @@
+{
+  "name": "07GruntAssignment",
+  "authors": [
+    "Christopher"
+  ],
+  "description": "Playing with Grunt and Bower",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
